@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 6929844a2b51fed4084186aab8174f1e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: LLamp010
+    100002: LLamp011
+    100004: LLamp012
+    100006: LLamp013
+    100008: LLamp014
+    100010: LLamp015
+    100012: LLamp016
+    100014: LLamp017
+    100016: LLamp018
+    100018: Panel
+    100020: RLamp010
+    100022: RLamp011
+    100024: RLamp012
+    100026: RLamp013
+    100028: RLamp014
+    100030: RLamp015
+    100032: RLamp016
+    100034: RLamp017
+    100036: RLamp018
+    100038: //RootNode
+    100040: TankBottom
+    100042: TankCase
+    100044: TankCylinder
+    100046: Wheel001
+    100048: Wheel002
+    400000: LLamp010
+    400002: LLamp011
+    400004: LLamp012
+    400006: LLamp013
+    400008: LLamp014
+    400010: LLamp015
+    400012: LLamp016
+    400014: LLamp017
+    400016: LLamp018
+    400018: Panel
+    400020: RLamp010
+    400022: RLamp011
+    400024: RLamp012
+    400026: RLamp013
+    400028: RLamp014
+    400030: RLamp015
+    400032: RLamp016
+    400034: RLamp017
+    400036: RLamp018
+    400038: //RootNode
+    400040: TankBottom
+    400042: TankCase
+    400044: TankCylinder
+    400046: Wheel001
+    400048: Wheel002
+    2100000: Lamps
+    2100002: Connectors
+    2100004: Glass
+    2100006: Metal01
+    2100008: Buttons
+    2300000: LLamp010
+    2300002: LLamp011
+    2300004: LLamp012
+    2300006: LLamp013
+    2300008: LLamp014
+    2300010: LLamp015
+    2300012: LLamp016
+    2300014: LLamp017
+    2300016: LLamp018
+    2300018: Panel
+    2300020: RLamp010
+    2300022: RLamp011
+    2300024: RLamp012
+    2300026: RLamp013
+    2300028: RLamp014
+    2300030: RLamp015
+    2300032: RLamp016
+    2300034: RLamp017
+    2300036: RLamp018
+    2300038: TankBottom
+    2300040: TankCase
+    2300042: TankCylinder
+    2300044: Wheel001
+    2300046: Wheel002
+    3300000: LLamp010
+    3300002: LLamp011
+    3300004: LLamp012
+    3300006: LLamp013
+    3300008: LLamp014
+    3300010: LLamp015
+    3300012: LLamp016
+    3300014: LLamp017
+    3300016: LLamp018
+    3300018: Panel
+    3300020: RLamp010
+    3300022: RLamp011
+    3300024: RLamp012
+    3300026: RLamp013
+    3300028: RLamp014
+    3300030: RLamp015
+    3300032: RLamp016
+    3300034: RLamp017
+    3300036: RLamp018
+    3300038: TankBottom
+    3300040: TankCase
+    3300042: TankCylinder
+    3300044: Wheel001
+    3300046: Wheel002
+    4300000: LLamp010
+    4300002: LLamp011
+    4300004: LLamp012
+    4300006: LLamp013
+    4300008: LLamp014
+    4300010: LLamp015
+    4300012: LLamp016
+    4300014: LLamp017
+    4300016: LLamp018
+    4300018: TankCase
+    4300020: TankCylinder
+    4300022: RLamp010
+    4300024: RLamp011
+    4300026: RLamp012
+    4300028: RLamp013
+    4300030: RLamp014
+    4300032: RLamp015
+    4300034: RLamp016
+    4300036: RLamp017
+    4300038: RLamp018
+    4300040: TankBottom
+    4300042: Panel
+    4300044: Wheel001
+    4300046: Wheel002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buttons
+    second: {fileID: 2100000, guid: 790306a87ac10e3449aadae0115d3872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Connectors
+    second: {fileID: 2100000, guid: b2d99b87febef3a48bf82ecd7dd09540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: c7813507621d15949b47af0e5975d292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamps
+    second: {fileID: 2100000, guid: cd545fd238d6a214984088f60156cbfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal01
+    second: {fileID: 2100000, guid: 7c16a7aee1d499a42b8ba2cb55d43f25, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: c805ce81eeff1634c9e578053aabfbd8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Connectors
+    100002: LLamp001
+    100004: LLamp002
+    100006: LLamp003
+    100008: LLamp004
+    100010: LLamp005
+    100012: LLamp006
+    100014: LLamp007
+    100016: LLamp008
+    100018: LLamp009
+    100020: PaddleWheel
+    100022: //RootNode
+    100024: PumpCase
+    100026: PumpCylinder
+    100028: RLamp001
+    100030: RLamp002
+    100032: RLamp003
+    100034: RLamp004
+    100036: RLamp005
+    100038: RLamp006
+    100040: RLamp007
+    100042: RLamp008
+    100044: RLamp009
+    400000: Connectors
+    400002: LLamp001
+    400004: LLamp002
+    400006: LLamp003
+    400008: LLamp004
+    400010: LLamp005
+    400012: LLamp006
+    400014: LLamp007
+    400016: LLamp008
+    400018: LLamp009
+    400020: PaddleWheel
+    400022: //RootNode
+    400024: PumpCase
+    400026: PumpCylinder
+    400028: RLamp001
+    400030: RLamp002
+    400032: RLamp003
+    400034: RLamp004
+    400036: RLamp005
+    400038: RLamp006
+    400040: RLamp007
+    400042: RLamp008
+    400044: RLamp009
+    2100000: Connectors
+    2100002: Metal01
+    2100004: Glass
+    2100006: Lamps
+    2300000: Connectors
+    2300002: LLamp001
+    2300004: LLamp002
+    2300006: LLamp003
+    2300008: LLamp004
+    2300010: LLamp005
+    2300012: LLamp006
+    2300014: LLamp007
+    2300016: LLamp008
+    2300018: LLamp009
+    2300020: PaddleWheel
+    2300022: PumpCase
+    2300024: PumpCylinder
+    2300026: RLamp001
+    2300028: RLamp002
+    2300030: RLamp003
+    2300032: RLamp004
+    2300034: RLamp005
+    2300036: RLamp006
+    2300038: RLamp007
+    2300040: RLamp008
+    2300042: RLamp009
+    3300000: Connectors
+    3300002: LLamp001
+    3300004: LLamp002
+    3300006: LLamp003
+    3300008: LLamp004
+    3300010: LLamp005
+    3300012: LLamp006
+    3300014: LLamp007
+    3300016: LLamp008
+    3300018: LLamp009
+    3300020: PaddleWheel
+    3300022: PumpCase
+    3300024: PumpCylinder
+    3300026: RLamp001
+    3300028: RLamp002
+    3300030: RLamp003
+    3300032: RLamp004
+    3300034: RLamp005
+    3300036: RLamp006
+    3300038: RLamp007
+    3300040: RLamp008
+    3300042: RLamp009
+    4300000: PaddleWheel
+    4300002: PumpCase
+    4300004: PumpCylinder
+    4300006: RLamp001
+    4300008: RLamp002
+    4300010: RLamp003
+    4300012: RLamp004
+    4300014: RLamp005
+    4300016: RLamp006
+    4300018: RLamp007
+    4300020: RLamp008
+    4300022: RLamp009
+    4300024: LLamp001
+    4300026: LLamp002
+    4300028: LLamp003
+    4300030: LLamp004
+    4300032: LLamp005
+    4300034: LLamp006
+    4300036: LLamp007
+    4300038: LLamp008
+    4300040: LLamp009
+    4300042: Connectors
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Connectors
+    second: {fileID: 2100000, guid: b2d99b87febef3a48bf82ecd7dd09540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: c7813507621d15949b47af0e5975d292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamps
+    second: {fileID: 2100000, guid: cd545fd238d6a214984088f60156cbfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal01
+    second: {fileID: 2100000, guid: 7c16a7aee1d499a42b8ba2cb55d43f25, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

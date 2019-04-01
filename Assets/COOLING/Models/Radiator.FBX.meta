@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 11b95ad4701acc540aaf7a9e14f316df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Button001
+    100002: Connectors
+    100004: Frame
+    100006: HeatGrid
+    100008: Lamp001
+    100010: Lamp002
+    100012: Lamp003
+    100014: //RootNode
+    100016: VentiFrame
+    100018: Ventilator001
+    100020: Ventilator002
+    400000: Button001
+    400002: Connectors
+    400004: Frame
+    400006: HeatGrid
+    400008: Lamp001
+    400010: Lamp002
+    400012: Lamp003
+    400014: //RootNode
+    400016: VentiFrame
+    400018: Ventilator001
+    400020: Ventilator002
+    2100000: Metal02
+    2100002: Metal01
+    2100004: Connectors
+    2100006: Lamps
+    2100008: Buttons
+    2300000: Button001
+    2300002: Connectors
+    2300004: Frame
+    2300006: HeatGrid
+    2300008: Lamp001
+    2300010: Lamp002
+    2300012: Lamp003
+    2300014: VentiFrame
+    2300016: Ventilator001
+    2300018: Ventilator002
+    3300000: Button001
+    3300002: Connectors
+    3300004: Frame
+    3300006: HeatGrid
+    3300008: Lamp001
+    3300010: Lamp002
+    3300012: Lamp003
+    3300014: VentiFrame
+    3300016: Ventilator001
+    3300018: Ventilator002
+    4300000: HeatGrid
+    4300002: Frame
+    4300004: Connectors
+    4300006: Ventilator002
+    4300008: Lamp001
+    4300010: Lamp002
+    4300012: Lamp003
+    4300014: Button001
+    4300016: VentiFrame
+    4300018: Ventilator001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buttons
+    second: {fileID: 2100000, guid: 790306a87ac10e3449aadae0115d3872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Connectors
+    second: {fileID: 2100000, guid: b2d99b87febef3a48bf82ecd7dd09540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamps
+    second: {fileID: 2100000, guid: cd545fd238d6a214984088f60156cbfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal01
+    second: {fileID: 2100000, guid: 7c16a7aee1d499a42b8ba2cb55d43f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal02
+    second: {fileID: 2100000, guid: 6bb9185a5540b304286a21ec6e7a9bef, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
