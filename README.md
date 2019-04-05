@@ -6,3 +6,9 @@ The game and all assets are done by me except:
 - Player (Model, Anims, Movement)
 - Music: Benjamin TISSOT bensound.com
 - SoundFX: soundbible.com
+
+## How to use
+- Clone repo
+- Open folder with Unity 2018.3
+- Open scene `Cooling_Module` in Assets/COOLING/Scenes/
+- Click play
